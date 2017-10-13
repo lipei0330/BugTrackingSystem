@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="06cb5650-d7c7-408d-a654-05a2174c95ac" />
+          <option name="name" value="bug_tracking_system" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/bug_tracking_system.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
